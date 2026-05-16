@@ -39,7 +39,5 @@ for (let key in student) {
     }else{
 
     }
-}
-
-
+}*/
 
